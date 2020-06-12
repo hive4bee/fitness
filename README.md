@@ -1,5 +1,5 @@
-# fitness
-fitness
+# fitness 프로젝트
+
 
 <img src="images/01main.jpg" width="100" height="100">
 
