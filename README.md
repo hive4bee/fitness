@@ -1,10 +1,19 @@
 # fitness 프로젝트
 
-
-<img src="images/01main.jpg" width="100" height="100">
-
-<img src="images/02_로그인폼.jpg" width="100" height="100">
-
-<img src="images/03_회원가입폼.jpg" width="100" height="100">
-
-<img src="images/04_아이디중복체크.jpg" width="100" height="100">
+* 운동중독자들
+  * 회원
+    * 회원가입
+    * 로그인
+    * 아이디찾기
+    * 비밀번호찾기
+    * 상품조회
+    * 장바구니
+    * 주문
+    * 질문답변게시판
+  * 관리자
+    * 회원관리
+    * 주문관리
+    * 상품관리
+    * 공지, FAQ 게시판 관리
+    * 질문답변게시판
+    
