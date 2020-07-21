@@ -30,8 +30,8 @@ public class NaverSender implements CommandAction {
 		 */
 		// mail server 설정
 		String host = "smtp.naver.com";
-		String user = "eeprot@naver.com"; // 자신의 네이버 계정
-		String password = "94febYth&&";// 자신의 네이버 패스워드
+		String user = ""; // 자신의 네이버 계정
+		String password = "";// 자신의 네이버 패스워드
 
 		// 메일 받을 주소
 		/* String to_email = m.getEmail(); */
